@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FamilyGallery</string>
+    <string name="app_title">Family Gallery</string>
+    <string name="add_members">Add Members</string>
+    <string name="view_members">View Members</string>
+    <string name="edit_members">Edit/Delete Members</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="dob">Dob</string>
+    <string name="profile_pic">Profile Picture</string>
+</resources>
