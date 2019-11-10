@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FamilyGallery</string>
+    <string name="app_title">Family Gallery</string>
+    <string name="add_members">Add Member</string>
+    <string name="view_members">View Members</string>
+    <string name="edit_members">Edit/Delete Members</string>
+    <string name="name">Don Joe Thomas</string>
+    <string name="email">joethomas@gmail.com</string>
+    <string name="phone">+245700456549</string>
+    <string name="gender">Male</string>
+    <string name="dob">08/05/1992</string>
+    <string name="profile_pic">Profile Picture</string>
+</resources>
